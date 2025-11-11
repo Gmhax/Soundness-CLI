@@ -2,6 +2,10 @@
 
 # Installation process
 
+# Knight tour pattern
+<img width="568" height="425" alt="image" src="https://github.com/user-attachments/assets/fca4760a-d966-47fd-b1fa-a55e7db0a38f" />
+
+
 - Use Codespace https://github.com/codespaces
 <img width="1575" height="845" alt="image" src="https://github.com/user-attachments/assets/0bd0003c-d8e2-4721-ab77-b2b94395ee6f" />
 
